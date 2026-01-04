@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Travis Dale Jones**
-- Email: travis.jones@holedozer1229.org
+- Email: holedozer@icloud.com
 - GitHub: [@Holedozer1229](https://github.com/Holedozer1229)
 
 ## Citation
